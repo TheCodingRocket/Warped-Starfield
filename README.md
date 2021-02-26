@@ -1,5 +1,7 @@
-# Starfield
+<div align="center">
+  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+</div>
 
-Starfield, a new way to experience Space Warping.
-ever wanted to experience what its like to fly faster than the speed of light?
-well then, what are you waiting for, lets go!
+<h1 align="center">
+  The Starfield
+</h1>
