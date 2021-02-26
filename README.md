@@ -14,6 +14,16 @@
  Starfield was built to visualize the very core of space-time. how we perceive and see reality in a different point of view. The point of creating Starfield is to make simulations more accesible to everyone.
  </h3>
 
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/src/images/sat.png" width="100" />
-</div>
+### 🚀 Building and Running for Production
+
+1. Create and change the web link
+
+   ```sh
+   Download or Fork the repository
+   ```
+
+2. Preview the site as it will appear once deployed
+
+   ```sh
+   Use any Code Editor to change anything you don't like
+   ```
