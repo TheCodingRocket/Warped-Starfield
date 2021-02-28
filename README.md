@@ -33,3 +33,13 @@
    ```sh
    Use any Code Editor to change anything you don't like
    ```
+3. Host the repository
+
+   ```sh
+   Once you're finish editing the contents host the site
+   ```
+4. Enjoy the simulation
+
+   ```sh
+   Thats it you're finsihed
+   ```
