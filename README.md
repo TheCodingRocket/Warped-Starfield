@@ -25,7 +25,7 @@ Adjusting the speed
  You can adjust the speed of the simulation. To go slower, hover your mouse / track pad to the left. To go faster and visualize the speed of light, hover your mouse or track pad to the right. But if you want the best of both worlds, hover your mouse / track pad to the middle, where you can see the stars and planets pass by.
  </h3>
 
- <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/space.webp"/>
+ <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/field.png"/>
 
 
 ---
