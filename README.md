@@ -11,7 +11,7 @@
   </h3>
 
 <h3 align="center">
- Starfield was built to visualize the very core of space-time. how we perceive and see reality in a different point of view. The point of creating Starfield is to make simulations more accesible to everyone.
+ Starfield was built to visualize the very core of the speed of light. how we perceive and see reality in a different point of view. The point of creating Starfield is to make simulations more accesible to everyone.
  </h3>
 
  <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/space.webp"/>
