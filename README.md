@@ -13,7 +13,9 @@
 <h3 align="center">
  Starfield was built to visualize the very core of the speed of light. how we perceive and see reality in a different point of view. The point of creating Starfield is to make simulations more accesible to everyone.
  </h3>
- ---
+
+
+---
  <h3 align="center">
  You can adjust the speed of the simulation. To go slower, hover your mouse/track pad to the left. To go faster and visualize the speed of light, hover your mouse or track pad to the right. But if you want the best of both worlds, hover your mouse/track pad to the middle, there you can enjoy seeing the stars and planets pass by. Have fun.
  </h3>
