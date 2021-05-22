@@ -1,5 +1,5 @@
-<img alt="Logo" src="https://editor.p5js.org/4N4NT4/present/mIm8UBZct"/>
-https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/field.png
+<img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/field.png"/>
+
 
 <h1 align="center">
    <a href="https://editor.p5js.org/4N4NT4/present/mIm8UBZct" target="_blank">The Starfield</a>
